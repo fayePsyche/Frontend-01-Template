@@ -6,7 +6,7 @@
     // 二进制
         var binaryReg = /^0b([0-1]+$)/
     // 八进制
-        var OctalReg = /^0o([0-7]+$)/
+        var octalReg = /^0o([0-7]+$)/
     // 十六进制
         var hexReg = /^0[Xx]([0-9a-fA-F]+$)/
     // 所有
